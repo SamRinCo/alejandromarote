@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Alejandro Marote</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+
+
+ <style>
+.parrafoStilo {
+	margin: 5%;
+	font-size: 140%;
+	font-family: 'Roboto', sans-serif;
+}
+ 
+
+.head11 {
+	width: 100%;
+	height: 75vh;
+	background-color: rgba(236, 0, 132, 1.0);
+	vertical-align: middle;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20vh;
+}
+
+
+.titulo_nombre {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10vh;
+}
+
+
+
+
+
+
+.footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-dark h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px
+}
+
+.footer-dark ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0
+}
+
+.footer-dark ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.6
+}
+
+.footer-dark ul a:hover {
+    opacity: 0.8
+}
+
+@media (max-width:767px) {
+    .footer-dark .item:not(.social) {
+        text-align: center;
+        padding-bottom: 20px
+    }
+}
+
+.footer-dark .item.text {
+    margin-bottom: 36px
+}
+
+@media (max-width:767px) {
+    .footer-dark .item.text {
+        margin-bottom: 0
+    }
+}
+
+.footer-dark .item.text p {
+    opacity: 0.6;
+    margin-bottom: 0
+}
+
+.footer-dark .item.social {
+    text-align: center
+}
+
+@media (max-width:991px) {
+    .footer-dark .item.social {
+        text-align: center;
+        margin-top: 20px
+    }
+}
+
+.footer-dark .item.social>a {
+    font-size: 20px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4);
+    margin: 0 8px;
+    color: #fff;
+    opacity: 0.75;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-dark .item.social>a:hover {
+    opacity: 0.9
+}
+
+.footer-dark .copyright {
+    text-align: center;
+    padding-top: 24px;
+    opacity: 0.3;
+    font-size: 13px;
+    margin-bottom: 0
+}
+
+ </style>
+
+</head>
+
+<body>
+
+
+
+<p class="titulo_nombre" style="text-align:center"> <b>A</b>lejandro <b>M</b>arote</p> 
+<br/> 
+<!--- <h1  style="text-align:center; font-size: 10vh;"> 11:11 </h1> --->
+<br/> 
+<br/> 
+
+
+<img class="portada" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/1-PORTADA-scaled.jpg" style="width:100%">
+
+<div class="parrafoStilo">
+
+	<p class="has-text-align-center" style="text-align: justify;">La sociedad contempor&aacute;nea empieza a tomar consciencia del deterioro que sufre nuestra capacidad de concentraci&oacute;n debido a la adicci&oacute;n que sufrimos hacia los dispositivos digitales.</p>
+<p class="has-text-align-center" style="text-align: justify;">Cada pieza de la serie&nbsp;<em>11:11&nbsp;</em>es un portal que ha sido concebido geom&eacute;trica y crom&aacute;ticamente con el prop&oacute;sito de ayudar a las personas a ejercitar su capacidad de concentraci&oacute;n mientras observan una obra de arte.</p>
+<p class="has-text-align-center" style="text-align: justify;">La matem&aacute;tica crom&aacute;tica empleada para la construcci&oacute;n de cada portal pretende establecer un estado de equilibrio entre las fuerzas de color y geometr&iacute;a que facilite al espectador la capacidad de concentrarse en lo verdaderamente importante, la experiencia art&iacute;stica.</p>
+<p class="has-text-align-center" style="text-align: justify;">Solo aquel observador capaz de elevar su nivel de contemplaci&oacute;n tendr&aacute; la posibilidad de conectarse junto con el portal y comenzar a recordar parte de la informaci&oacute;n primigenia que permanec&iacute;a olvidada en su memoria ancestral.</p>
+<p class="has-text-align-center" style="text-align: justify;">El acto de estimular sobre nuestro subconsciente los mismos patrones visuales que emplea la energ&iacute;a primordial para inducir a todos los elementos de la realidad a tener que alcanzar su equilibrio y armon&iacute;a, liberar&aacute; por un instante a las personas del estado mental que todo lo juzga y las permitir&aacute; dirigir su atenci&oacute;n hacia el prop&oacute;sito espiritual de toda obra de arte, el silencio.</p>
+
+</div>
+
+
+  <div class="w3-content w3-display-container" style="text-align:center; width:100%;">
+    <img class="mySlides1" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Horizonte-6-scaled.jpg" style="width:90%; margin: auto;">
+    <img class="mySlides1" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Horizonte-3-scaled.jpg" style="width:90%; margin: auto;">
+    <img class="mySlides1" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Horizonte-1-scaled.jpg" style="width:90%; margin: auto;">
+    <img class="mySlides1" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Horizonte-5-scaled.jpg" style="width:90%; margin: auto;">
+
+    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+  
+  </div>
+
+  <div class="w3-content w3-display-container" style="text-align:center; width:100%;">
+
+    <img class="mySlides2" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Universo-4-scaled.jpg" style="width:90%; margin: auto;">
+    <img class="mySlides2" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Universo-2-scaled.jpg" style="width:90%; margin: auto;">
+    <img class="mySlides2" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Universo-1-scaled.jpg" style="width:90%; margin: auto;">
+    <img class="mySlides2" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Universo-5-scaled.jpg" style="width:90%; margin: auto;">
+
+    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
+  
+  </div>
+
+
+
+  <div class="w3-content w3-display-container" style="text-align:center; width:100%;">
+
+    <img class="mySlides3" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Poniente-3-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides3" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Poniente-5-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides3" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Poniente-6-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides3" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Poniente-1-scaled.jpg" style="width:90%; margin: auto;">
+
+    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 2)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 2)">&#10095;</button>
+  
+  </div>
+
+
+
+    <div class="w3-content w3-display-container" style="text-align:center; width:100%;">
+
+    <img class="mySlides4" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Espacio-5-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides4" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Espacio-6-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides4" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Espacio-3-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides4" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Espacio-1-scaled.jpg" style="width:90%; margin: auto;">
+
+    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 3)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 3)">&#10095;</button>
+  
+  </div>
+
+
+    <div class="w3-content w3-display-container" style="text-align:center; width:100%;">
+
+
+    <img class="mySlides5" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Ocaso-3-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides5" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Ocaso-5-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides5" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Ocaso-1-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides5" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Ocaso-6-scaled.jpg" style="width:90%; margin: auto;">
+
+    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 4)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 4)">&#10095;</button>
+  
+  </div>
+
+
+  </div>
+
+
+    <div class="w3-content w3-display-container" style="text-align:center; width:100%;">
+
+    <img class="mySlides6" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Vortex-5-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides6" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Vortex-3-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides6" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Vortex-1-scaled.jpg" style="width:90%; margin: auto;">
+
+    <img class="mySlides6" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/Vortex-6-scaled.jpg" style="width:90%; margin: auto;">
+
+    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 5)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 5)">&#10095;</button>
+  
+  </div>
+
+
+
+
+<div class="parrafoStilo" style="margin-top: 30vh; margin-bottom: 30vh">
+
+	<p class="has-text-align-center" style="text-align: justify;"> <b>Mi misión como artista</b> no se limita solo a diseñar piezas de arte y producirlas con la mayor excelencia posible.</p> 
+
+
+<p class="has-text-align-center" style="text-align: justify;"> Mi deber es devolver la confianza depositada en mi trabajo a cada coleccionista.</p>
+
+
+<p class="has-text-align-center" style="text-align: justify;"> Mi responsabilidad como artista se extiende al deber de coordinar y facilitar cada detalle desde el momento en que se adquiere una obra de arte hasta la llegada en perfectas condiciones a su destino final.</p> 
+
+
+<p class="has-text-align-center" style="text-align: justify;"> Mi compromiso con el arte es absoluto. </p>
+
+
+</div>
+
+
+
+<img class="fin" src="http://s866935358.onlinehome.us/wp-content/uploads/2021/09/2-FIN-scaled.jpg" style="width:100%">
+
+
+
+</body>
+
+<div class="footer-dark">
+    <footer>
+        <div class="container">
+            <div class="row" style="text-align:center">
+                
+                <div class="col-md-3 item">
+                    <h3>Contacto</h3>
+                    <ul>
+                        <li><a href="#">Luis Moral (SEO)</a></li>
+                        <li><a href="#">+34 661 147 883</a></li>
+                        <li><a href="#">info@AlejandroMarote.com</a></li>
+                    </ul>
+                </div>
+                <!---
+                <div class="col-md-3 item text">
+                    <h3>AlejandroMarote.com</h3>
+                    <p>11:11</p> --->
+                </div>
+
+                <!--
+                <div class="col item social"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a><a href="#"><i class="fa fa-instagram"></i></a><a href="#"><i class="fa fa-google"></i></a></div>
+            </div> -->
+            <p class="copyright">Todos los derechos reservados · Alejandro Marote © 2021</p>
+        </div>
+    </footer>
+</div>
+
+</html>
+
+<script>
+
+var slideIndex = [1, 1, 1, 1, 1, 1];
+var slideId = ["mySlides1", "mySlides2", "mySlides3", "mySlides4", "mySlides5", "mySlides6"]
+showDivs(1, 0);
+showDivs(1, 1);
+showDivs(1, 2);
+showDivs(1, 3);
+showDivs(1, 4);
+showDivs(1, 5);
+
+
+
+function plusDivs(n, no) {
+  showDivs(slideIndex[no] += n, no);
+}
+
+function showDivs(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {
+    slideIndex[no] = 1
+  }
+  if (n < 1) {
+    slideIndex[no] = x.length
+  }
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  x[slideIndex[no] - 1].style.display = "block";
+}
+
+</script>
